@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "cloudinary": "^2.5.1",
+    "daisyui": "^4.12.23",
     "formidable": "^3.5.2",
     "next": "15.1.6",
     "openai": "^4.80.0",
